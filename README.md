@@ -13,8 +13,8 @@ I'm Tomás Bombau
 
 ### Contact with me 📝
 
-[<img align="left"  height="40px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"/>]
-[<img align="left"  height="40px" src="https://www.freepnglogos.com/x-logo-twitter-transparent-logo-download-3.png"/>]
+[<img align="left"  height="40px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"/>][linkedin]
+[<img align="left"  height="40px" src="https://www.freepnglogos.com/x-logo-twitter-transparent-logo-download-3.png"/>][twitter]
 
 <br />
 
