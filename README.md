@@ -37,15 +37,6 @@ I'm Tomás Bombau
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
-
-
-
-
-
-
-
-<br/>
-
 ---
 ## 📊 Github Stats (Expand to View) 
 <details> 
