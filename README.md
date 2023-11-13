@@ -48,18 +48,18 @@ I'm Tomás Bombau
 
 ---
 
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/Tomas-Bombau/github-readme-stats"><img alt="Tomas-Bombau's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tomas-Bombau&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
-
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bgstatic&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=react&line_height=40&hide=css"/>
-    </a>
-</div
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tomas-Bombau&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Tomas-Bombau" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
 
 <br/>
 
