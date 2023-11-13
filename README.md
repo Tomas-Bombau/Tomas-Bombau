@@ -19,8 +19,6 @@ I'm Tomás Bombau
 	<a href="https://www.linkedin.com/in/tom%C3%A1s-ignacio-bombau-049a52139/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
 
-<br />
-
 ---
 
 ### What I am Good at 🧑‍💻
