@@ -13,8 +13,8 @@ I'm Tomás Bombau
 
 ### Contact with me 📝
 
-[<img align="left" alt="Tomas Bombau| LinkedIn" height="30px" src="https://www.flaticon.com/free-icon/linkedin_174857?term=linkedin&page=1&position=14&origin=search&related_id=174857"/>][linkedin]
-[<img align="left" alt="Tomas Bombau | Twitter" height="30px" src="https://www.flaticon.com/free-icon/twitter_5968830?related_id=5968830"/>][twitter]
+[linkedin][<img align="left" alt="Tomas Bombau | LinkedIn" height="30px" src="https://www.flaticon.com/free-icon/linkedin_174857?term=linkedin&page=1&position=14&origin=search&related_id=174857"/>]
+[twitter][<img align="left" alt="Tomas Bombau | Twitter" height="30px" src="https://www.flaticon.com/free-icon/twitter_5968830?related_id=5968830"/>]
 
 <br />
 
