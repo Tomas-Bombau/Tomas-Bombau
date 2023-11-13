@@ -13,7 +13,7 @@ I'm Tomás Bombau
 
 ### Contact with me 📝
 
-<p align="center">
+<p align="left">
 	<a href="mailto:tomas.bombau@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/Tomas-Bombau"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/tom%C3%A1s-ignacio-bombau-049a52139/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
