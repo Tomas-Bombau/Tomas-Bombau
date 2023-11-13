@@ -13,7 +13,7 @@ I'm Tomás Bombau
 
 ### Contact with me 📝
 
-[<img align="left" alt="Tomas Bombau | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/256/174/174857.png"/>][linkedin]
+[<img align="left" alt="Tomas Bombau | LinkedIn" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png"/>][linkedin]
 [<img align="left" alt="Tomas Bombau | Twitter" height="30px" src="https://www.freepnglogos.com/x-logo-twitter-transparent-logo-download-3.png"/>][twitter]
 
 <br />
