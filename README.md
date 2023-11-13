@@ -11,8 +11,6 @@ I'm Tomás Bombau
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
 ### Contact with me 📝
 
 [<img align="left" alt="Tomas Bombau| LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
