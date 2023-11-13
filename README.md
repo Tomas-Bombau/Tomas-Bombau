@@ -49,18 +49,16 @@ I'm Tomás Bombau
 ---
 ## 📊 Github Stats (Expand to View) 
 <details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
+<summary><b>💻 GitHub Profile Stats</b></summary>
+<br/>
   <p align="left">
     <a href="https://github.com/Tomas-Bombau/github-readme-stats"><img alt="Tomas-Bombau's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tomas-Bombau&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tomas-Bombau&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Tomas-Bombau" height="192px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tomas-Bombau&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Tomas-Bombau" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
-
-<br/>
 
 ---
 
@@ -75,4 +73,4 @@ I'm Tomás Bombau
 ----
 Credit: [Bgstatic](https://github.com/Bgstatic)
 
-Last Edited on: 23/09/2020
+Last Edited on: 13/11/2023
