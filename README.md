@@ -54,7 +54,6 @@ I'm Tomás Bombau
   <p align="left">
     <a href="https://github.com/Tomas-Bombau/github-readme-stats"><img alt="Tomas-Bombau's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tomas-Bombau&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
-  &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tomas-Bombau&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Tomas-Bombau" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
