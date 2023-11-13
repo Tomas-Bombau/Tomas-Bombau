@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Tomás Bombau 👋 </h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=;Full+Stack+Web+Developer;Front-end%20Passionate;Always%20learning%20new%20things&center=true&width=500&height=80"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=;Full+Stack+Web+Developer;Front-end%20Passionate;Always%20learning%20new%20things&center=true&width=500&height=200"></a>
 </p>
 
 I'm Tomás Bombau 
