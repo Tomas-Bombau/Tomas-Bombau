@@ -51,7 +51,7 @@ I'm Tomás Bombau
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-  <p align="center">
+  <p align="left">
     <a href="https://github.com/Tomas-Bombau/github-readme-stats"><img alt="Tomas-Bombau's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tomas-Bombau&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
