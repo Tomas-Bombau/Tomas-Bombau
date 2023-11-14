@@ -34,10 +34,10 @@ My main goal is to become a true professional in the programming world, focusing
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![Express](https://img.shields.io/badge/Express-8A2BE2?style=flat&logo=Express&color=black) <br/>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?logo=postgreSQL)
-![Sequelize](https://img.shields.io/badge/Sequelize-8A2BE2?style=flat&logo=sequelize&color=white) 
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm) <br/>
-![Jest](https://img.shields.io/badge/Jest-white?style=flat-square&logo=Jest&logoColor=red)
+![Sequelize](https://img.shields.io/badge/Sequelize-8A2BE2?style=flat&logo=sequelize&color=white) 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) <br/>
+![Jest](https://img.shields.io/badge/Jest-white?style=flat-square&logo=Jest&logoColor=red)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 ---
