@@ -36,7 +36,7 @@ My main goal is to become a true professional in the programming world, focusing
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?logo=postgreSQL)
 ![Sequelize](https://img.shields.io/badge/Sequelize-8A2BE2?style=flat&logo=sequelize&color=white) 
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm) <br/>
-![Jest](https://img.shields.io/badge/PostgreSQL-white?style=flat-square&logo=Jest&logoColor=red)
+![Jest](https://img.shields.io/badge/Jest-white?style=flat-square&logo=Jest&logoColor=red)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) <br/>
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
