@@ -4,7 +4,20 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=;Full+Stack+Web+Developer;Front-end%20Passionate;Always%20learning%20new%20things&center=true&width=500&height=70&size=25"></a>
 </p>
 
-I'm Tomás Bombau 
+## I'm a Fullstack Programmer
+
+Hello, my name is Tomás. I'm 33 years old, and I live in Buenos Aires, Argentina. I have a degree in Communication, and I am a Fullstack Programmer with a clear inclination towards Front-end development. I am motivated by understanding the user and providing design and navigability solutions directly from the code.
+
+A Few Quick Facts
+🔭 Currently, I am working on projects to expand my portfolio.
+🧐 Studying various Front-end technologies and refining my skills in React.
+📝 Occasionally, I write fiction.
+🏔️ I enjoy mountains
+🐶 Dog lover
+![image](https://github.com/Tomas-Bombau/Tomas-Bombau/assets/121265447/391c7f82-9fec-43a8-989c-7b79d7b5c1d5) 30% French.
+
+Where am I headed?
+My main goal is to become a true professional in the programming world, focusing primarily on the Front-end, which is what I am most passionate about.
 
 <img align="right" height="150" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 ## I'm a Computer Science and Engineering Student  
