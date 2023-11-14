@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=;Full+Stack+Web+Developer;Front-end%20Passionate;Always%20learning%20new%20things&center=true&width=500&height=70&size=25"></a>
 </p>
-
+---
 ## Fullstack Programmer
 Hello, my name is Tomás. I'm 33 years old, and I live in Buenos Aires, Argentina. I have a degree in Communication, and I am a Fullstack Programmer with a clear inclination towards Front-end development. I am motivated by understanding the user and providing design and navigability solutions directly from the code.
 <br/>
@@ -14,13 +14,12 @@ Hello, my name is Tomás. I'm 33 years old, and I live in Buenos Aires, Argentin
 🏔️ I enjoy mountains  <br/>
 🐶 Dog lover  <br/>
 30% French.
-<br/>
 ### Where am I headed?
 My main goal is to become a true professional in the programming world, focusing primarily on the Front-end, which is what I am most passionate about.Learn more technologies - Never stop creating new ideas.
 <img align="right" height="150" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-
-### What I am Good at 🧑‍💻
+---
+## What I am Good at 🧑‍💻
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
