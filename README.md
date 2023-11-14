@@ -56,7 +56,7 @@ My main goal is to become a true professional in the programming world, focusing
 
 ---
 
-## Contact with me 📝
+## Contact me 📝
 
 <p align="left">
 	<a href="mailto:tomas.bombau@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
