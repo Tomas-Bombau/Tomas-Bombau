@@ -67,7 +67,4 @@ My main goal is to become a true professional in the programming world, focusing
 [twitter]: https://twitter.com/TomiBombau
 [linkedin]: https://www.linkedin.com/in/tom%C3%A1s-ignacio-bombau-049a52139/
 
-
-----
-
 Last Edited on: 13/11/2023
