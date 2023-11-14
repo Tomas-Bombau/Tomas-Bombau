@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=;Full+Stack+Web+Developer;Front-end%20Passionate;Always%20learning%20new%20things&center=true&width=500&height=70&size=25"></a>
 </p>
----
+
 ## Fullstack Programmer
 Hello, my name is Tomás. I'm 33 years old, and I live in Buenos Aires, Argentina. I have a degree in Communication, and I am a Fullstack Programmer with a clear inclination towards Front-end development. I am motivated by understanding the user and providing design and navigability solutions directly from the code.
 <br/>
