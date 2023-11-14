@@ -18,7 +18,7 @@ Hello, my name is Tomás. I'm 33 years old, and I live in Buenos Aires, Argentin
 🐶 Dog lover  <br/>
 
 ### Where am I heading?
-My main goal is to become a true professional in the programming world, focusing primarily on the Front-end, which is what I am most passionate about.Learn more technologies - Never stop creating new ideas.
+My main goal is to become a true professional in the programming world, focusing primarily on the Front-end, which is what I am most passionate about. Undoubtedly, the journey ahead will involve embracing new technologies, and the process of continuous ideation will be unceasing. Follow me in this adventure!
 
 
 ---
