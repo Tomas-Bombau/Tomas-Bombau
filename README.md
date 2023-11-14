@@ -9,7 +9,7 @@
 ## Fullstack Programmer
 Hello, my name is Tomás. I'm 33 years old, and I live in Buenos Aires, Argentina. I have a degree in Communication, and I am a Fullstack Programmer with a clear inclination towards Front-end development. I am motivated by understanding the user and providing design and navigability solutions directly from the code.
 <br/>
-### A Few Quick Facts 
+### A Few Quick Facts About Me
 <img align="right" height="120" width="230" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 🔭 Currently, I am working on projects to expand my portfolio. <br/>
 🧐 Studying various Front-end technologies and refining my skills in React.  <br/>
