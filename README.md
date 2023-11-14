@@ -11,12 +11,12 @@ Hello, my name is Tomas. I'm 33 years old, and I live in Buenos Aires, Argentina
 <br/>
 ### A Few Quick Facts About Me
 <img align="right" height="120" width="230" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-🔭 Currently, I am working on projects to expand my portfolio. <br/>
+🔭 Currently, I am working on various projects to expand my portfolio. <br/>
 🧐 Studying various Front-end technologies and refining my skills in React.  <br/>
 📝 Occasionally, I write fiction.  <br/>
 🏔️ I enjoy mountains  <br/>
 🐶 Dog lover <br/>
-🗣️French and English speaker
+🗣️French, english and spanish speaker
 
 ### Where am I heading?
 My main goal is to become a true professional in the programming world, focusing primarily on Front-end, which is what I am most passionate about. Undoubtedly, the journey ahead will involve embracing new technologies, and the process of continuous ideation will be unceasing. Follow me in this adventure! Au revoir 🤗
