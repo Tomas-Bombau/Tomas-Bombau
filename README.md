@@ -14,15 +14,11 @@ Hello, my name is Tomás. I'm 33 years old, and I live in Buenos Aires, Argentin
 🏔️ I enjoy mountains  <br/>
 🐶 Dog lover  <br/>
 30% French.
-
 <br/>
-
 ### Where am I headed?
 My main goal is to become a true professional in the programming world, focusing primarily on the Front-end, which is what I am most passionate about.Learn more technologies - Never stop creating new ideas.
-
 <img align="right" height="150" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-<br/>
 
 ### What I am Good at 🧑‍💻
 
