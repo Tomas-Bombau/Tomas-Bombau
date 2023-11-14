@@ -19,18 +19,6 @@ Hello, my name is Tomás. I'm 33 years old, and I live in Buenos Aires, Argentin
 My main goal is to become a true professional in the programming world, focusing primarily on the Front-end, which is what I am most passionate about.Learn more technologies - Never stop creating new ideas.
 
 <img align="right" height="150" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-## I'm a Computer Science and Engineering Student  
-
----
-
-## Contact with me 📝
-
-<p align="left">
-	<a href="mailto:tomas.bombau@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Tomas-Bombau"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/tom%C3%A1s-ignacio-bombau-049a52139/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-</p>
-
 ---
 
 ### What I am Good at 🧑‍💻
@@ -65,7 +53,13 @@ My main goal is to become a true professional in the programming world, focusing
 
 ---
 
-### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
+## Contact with me 📝
+
+<p align="left">
+	<a href="mailto:tomas.bombau@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/Tomas-Bombau"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/tom%C3%A1s-ignacio-bombau-049a52139/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+</p>
 
 ---
 
@@ -74,6 +68,5 @@ My main goal is to become a true professional in the programming world, focusing
 
 
 ----
-Credit: [Bgstatic](https://github.com/Bgstatic)
 
 Last Edited on: 13/11/2023
