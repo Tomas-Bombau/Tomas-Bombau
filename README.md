@@ -8,13 +8,12 @@
 
 Hello, my name is Tomás. I'm 33 years old, and I live in Buenos Aires, Argentina. I have a degree in Communication, and I am a Fullstack Programmer with a clear inclination towards Front-end development. I am motivated by understanding the user and providing design and navigability solutions directly from the code.
 
-A Few Quick Facts
+### A Few Quick Facts 
 🔭 Currently, I am working on projects to expand my portfolio. <br/>
 🧐 Studying various Front-end technologies and refining my skills in React.  <br/>
 📝 Occasionally, I write fiction.  <br/>
 🏔️ I enjoy mountains  <br/>
-🐶 Dog lover  <br/>
-![image](https://github.com/Tomas-Bombau/Tomas-Bombau/assets/121265447/391c7f82-9fec-43a8-989c-7b79d7b5c1d5&width=20) 30% French.
+🐶 Dog lover  <br/>30% French.
 
 Where am I headed?
 My main goal is to become a true professional in the programming world, focusing primarily on the Front-end, which is what I am most passionate about.
@@ -29,7 +28,7 @@ My main goal is to become a true professional in the programming world, focusing
 
 ---
 
-### Contact with me 📝
+## Contact with me 📝
 
 <p align="left">
 	<a href="mailto:tomas.bombau@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
