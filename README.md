@@ -15,7 +15,7 @@ Hello, my name is Tomás. I'm 33 years old, and I live in Buenos Aires, Argentin
 🧐 Studying various Front-end technologies and refining my skills in React.  <br/>
 📝 Occasionally, I write fiction.  <br/>
 🏔️ I enjoy mountains  <br/>
-🐶 Dog lover  <br/>
+🐶 Dog lover <br/>
 🗼<p>French speaker <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> </p> 
 
 ### Where am I heading?
