@@ -6,7 +6,7 @@
 
 ---
 
-## Fullstack Programmer
+## Fullstack Developer
 Hello, my name is Tomas. I'm 33 years old, and I live in Buenos Aires, Argentina. I have a degree in Communication, and I am a Fullstack Programmer with a clear inclination towards Front-end development. I am motivated by understanding the user and providing design and navigability solutions directly from the code.
 <br/>
 ### A Few Quick Facts About Me
