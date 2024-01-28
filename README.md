@@ -7,7 +7,7 @@
 ---
 
 ## Front End Developer
-Hello, my name is Tomas. I'm 33 years old, and I live in Buenos Aires, Argentina. I have a degree in Communication, and I am a Front End Programmer. I am motivated by understanding the user and providing design and navigability solutions directly from the code. I also have solid foundation in backend technologies such as Node.js, Express, and Sequelize. I know how to center a "<div>" without ChatGPT 😅
+Hello, my name is Tomas. I'm 33 years old, and I live in Buenos Aires, Argentina. I have a degree in Communication, and I am a Front End Programmer. I am motivated by understanding the user and providing design and navigability solutions directly from the code. I also have solid foundation in backend technologies such as Node.js, Express, and Sequelize. I know how to center a "div" without ChatGPT 😅
 <br/>
 ### A Few Quick Facts About Me
 <img align="right" height="120" width="230" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
@@ -62,12 +62,11 @@ My main goal is to become a true professional in the programming world, focusing
 <p align="left">
 	<a href="mailto:tomas.bombau@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/Tomas-Bombau"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/tom%C3%A1s-ignacio-bombau-049a52139/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/tomas-ignacio-bombau/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
 
 ---
 
-[twitter]: https://twitter.com/TomiBombau
 [linkedin]: https://www.linkedin.com/in/tom%C3%A1s-ignacio-bombau-049a52139/
 
-Last Edited on: 13/11/2023
+Last Edited on: 28/01/2024
