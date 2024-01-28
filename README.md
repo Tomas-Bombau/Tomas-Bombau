@@ -1,13 +1,13 @@
 <h1 align="center"> Hi, there! 👋 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=;Front-end%20Passionate;Aiming+Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=60&size=25"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=;Front-end%20Passionate;Aiming+Full+Stack+Developement;Always%20learning%20new%20things&center=true&width=500&height=60&size=25"></a>
 </p>
 
 ---
 
 ## Front End Developer
-Hello, my name is Tomas. I'm 33 years old, and I live in Buenos Aires, Argentina. I have a degree in Communication, and I am a Front End Programmer. I am motivated by understanding the user and providing design and navigability solutions directly from the code. I also have solid foundation in backend technologies such as Node.js, Express, and Sequelize. I know how to center a <div> without ChatGPT 😅
+Hello, my name is Tomas. I'm 33 years old, and I live in Buenos Aires, Argentina. I have a degree in Communication, and I am a Front End Programmer. I am motivated by understanding the user and providing design and navigability solutions directly from the code. I also have solid foundation in backend technologies such as Node.js, Express, and Sequelize. I know how to center a "<div>" without ChatGPT 😅
 <br/>
 ### A Few Quick Facts About Me
 <img align="right" height="120" width="230" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
