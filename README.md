@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, there! 👋 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=;On+The+Road+To+Full+Stack+Web+Developer;Front-end%20Passionate;Always%20learning%20new%20things&center=true&width=500&height=60&size=25"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=;Front-end%20Passionate;Aiming+Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=60&size=25"></a>
 </p>
 
 ---
